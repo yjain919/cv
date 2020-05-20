@@ -1,0 +1,23 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 4%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1 {
+  color: #116979;
+}
+
+h3 {
+  color: #1eb2a6;
+}
+
+/*****************************class selector*************************/
+.hov :hover {
+  background-color: #2a7886;
+}
